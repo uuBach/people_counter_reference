@@ -1,0 +1,10 @@
+{
+  "video": "entry_camera.mp4",
+  "entries": 11,
+  "exits": 6,
+  "unknown_tracks": 104,
+  "frame_sample_rate": 1,
+  "processed_frames": 36000,
+  "total_video_frames": 36000,
+  "notes": "YOLO person detector + ByteTrack. Direction is inferred from normalized track displacement along the image diagonal: upper-left to lower-right is entry, the reverse is exit. Short, static, weakly diagonal, and possible duplicate fragments are marked unknown. Counts are heuristic and should be validated on annotated debug frames."
+}

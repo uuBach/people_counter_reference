@@ -1,0 +1,122 @@
+track_id,direction,start_time_s,end_time_s,confidence,notes
+1,unknown,5.7,13.25,0.218,static/small movement: movement_norm=0.003
+2,unknown,15.6,17.2,0.179,static/small movement: movement_norm=0.001
+3,unknown,55.95,56.2,0.1,track too short: 0.25s < 1.00s
+5,unknown,111.4,114.6,0.143,static/small movement: movement_norm=0.007
+8,unknown,124.15,126.05,0.205,static/small movement: movement_norm=0.027
+10,unknown,129.85,133.25,0.156,static/small movement: movement_norm=0.003
+13,unknown,137.2,137.35,0.1,too few detections: 2 < 5
+15,unknown,139.35,145.35,0.204,static/small movement: movement_norm=0.039
+17,unknown,163.9,165.0,0.137,static/small movement: movement_norm=0.002
+18,unknown,164.15,164.15,0.1,too few detections: 1 < 5
+19,unknown,169.95,171.75,0.141,static/small movement: movement_norm=0.015
+23,unknown,174.4,175.45,0.1,too few detections: 4 < 5
+25,unknown,177.85,178.55,0.1,track too short: 0.70s < 1.00s
+30,unknown,212.9,216.75,0.179,static/small movement: movement_norm=0.002
+32,unknown,219.7,240.25,0.184,static/small movement: movement_norm=0.003
+33,entry,261.55,283.7,0.958,dx=0.407; dy=0.402; projection=0.572; alignment=1.000; hits=431; mean_det_conf=0.789
+36,unknown,261.95,269.1,0.211,static/small movement: movement_norm=0.012
+37,entry,263.95,284.5,0.959,dx=0.435; dy=0.403; projection=0.592; alignment=0.999; hits=398; mean_det_conf=0.796
+40,unknown,271.15,271.75,0.1,track too short: 0.60s < 1.00s
+41,unknown,271.85,272.15,0.1,track too short: 0.30s < 1.00s
+43,entry,272.8,275.15,0.527,dx=-0.012; dy=0.127; projection=0.081; alignment=0.636; hits=47; mean_det_conf=0.534
+44,unknown,275.25,275.7,0.1,track too short: 0.45s < 1.00s
+47,unknown,276.75,277.5,0.1,track too short: 0.75s < 1.00s
+48,unknown,278.9,279.35,0.1,too few detections: 4 < 5
+49,unknown,280.2,280.5,0.1,track too short: 0.30s < 1.00s
+50,unknown,280.9,286.55,0.253,static/small movement: movement_norm=0.028
+52,unknown,287.4,288.45,0.173,static/small movement: movement_norm=0.027
+53,unknown,288.1,288.15,0.1,too few detections: 2 < 5
+55,unknown,298.2,305.15,0.213,static/small movement: movement_norm=0.006
+57,unknown,320.65,325.85,0.162,static/small movement: movement_norm=0.001
+59,unknown,329.15,329.9,0.1,track too short: 0.75s < 1.00s
+60,unknown,333.35,338.35,0.181,static/small movement: movement_norm=0.002
+63,unknown,357.45,357.45,0.1,too few detections: 1 < 5
+64,unknown,514.9,516.85,0.156,static/small movement: movement_norm=0.007
+66,unknown,532.05,533.8,0.144,static/small movement: movement_norm=0.001
+69,unknown,549.7,551.05,0.1,too few detections: 3 < 5
+70,unknown,606.95,607.5,0.1,too few detections: 3 < 5
+71,unknown,610.65,613.45,0.236,static/small movement: movement_norm=0.005
+72,unknown,616.55,616.65,0.1,too few detections: 3 < 5
+73,unknown,616.8,621.7,0.233,static/small movement: movement_norm=0.048
+76,unknown,621.9,622.1,0.1,track too short: 0.20s < 1.00s
+78,unknown,623.1,623.2,0.1,too few detections: 3 < 5
+80,unknown,624.6,624.6,0.1,too few detections: 1 < 5
+82,unknown,625.75,627.85,0.138,static/small movement: movement_norm=0.010
+83,unknown,627.3,627.95,0.1,track too short: 0.65s < 1.00s
+84,unknown,631.45,632.35,0.1,track too short: 0.90s < 1.00s
+86,entry,632.55,642.85,0.957,dx=0.467; dy=0.405; projection=0.616; alignment=0.998; hits=203; mean_det_conf=0.787
+87,unknown,634.05,640.25,0.189,static/small movement: movement_norm=0.010
+88,unknown,640.3,644.3,0.161,static/small movement: movement_norm=0.026
+89,unknown,641.05,644.5,0.166,static/small movement: movement_norm=0.004
+91,unknown,671.25,672.8,0.151,static/small movement: movement_norm=0.010
+92,unknown,673.65,846.5,0.235,static/small movement: movement_norm=0.015
+93,exit,740.1,746.25,0.963,dx=-0.521; dy=-0.471; projection=-0.702; alignment=0.999; hits=120; mean_det_conf=0.815
+94,unknown,740.35,740.35,0.1,too few detections: 1 < 5
+95,unknown,848.6,849.2,0.1,track too short: 0.60s < 1.00s
+99,unknown,872.5,880.7,0.171,static/small movement: movement_norm=0.010
+100,unknown,900.9,904.1,0.156,static/small movement: movement_norm=0.001
+102,unknown,916.95,917.2,0.1,track too short: 0.25s < 1.00s
+103,unknown,927.8,929.15,0.177,static/small movement: movement_norm=0.002
+104,unknown,936.8,963.8,0.209,static/small movement: movement_norm=0.005
+105,entry,948.0,958.9,0.956,dx=0.465; dy=0.402; projection=0.613; alignment=0.997; hits=217; mean_det_conf=0.783
+106,unknown,965.55,990.2,0.181,static/small movement: movement_norm=0.016
+108,unknown,999.8,1003.3,0.145,static/small movement: movement_norm=0.001
+109,unknown,1007.75,1008.95,0.152,static/small movement: movement_norm=0.004
+110,unknown,1014.2,1019.05,0.143,static/small movement: movement_norm=0.008
+111,unknown,1021.4,1026.1,0.164,static/small movement: movement_norm=0.007
+113,unknown,1028.45,1029.95,0.155,static/small movement: movement_norm=0.001
+114,unknown,1038.0,1040.05,0.14,static/small movement: movement_norm=0.001
+115,unknown,1040.7,1073.75,0.201,static/small movement: movement_norm=0.010
+116,entry,1046.2,1050.05,0.94,dx=0.329; dy=0.374; projection=0.497; alignment=0.998; hits=77; mean_det_conf=0.818
+117,unknown,1076.15,1088.25,0.215,static/small movement: movement_norm=0.002
+119,unknown,1090.95,1095.65,0.21,static/small movement: movement_norm=0.006
+120,unknown,1099.35,1107.45,0.163,static/small movement: movement_norm=0.004
+121,unknown,1110.7,1120.75,0.188,static/small movement: movement_norm=0.003
+122,unknown,1122.9,1123.4,0.1,track too short: 0.50s < 1.00s
+123,unknown,1125.15,1125.95,0.1,track too short: 0.80s < 1.00s
+124,unknown,1128.75,1129.3,0.1,track too short: 0.55s < 1.00s
+125,unknown,1133.8,1134.9,0.18,static/small movement: movement_norm=0.001
+126,unknown,1136.75,1140.2,0.167,static/small movement: movement_norm=0.003
+128,unknown,1146.8,1147.6,0.1,track too short: 0.80s < 1.00s
+130,unknown,1150.7,1152.7,0.143,static/small movement: movement_norm=0.001
+131,unknown,1155.05,1157.9,0.174,static/small movement: movement_norm=0.001
+133,unknown,1164.8,1174.9,0.2,static/small movement: movement_norm=0.001
+134,unknown,1178.2,1182.8,0.216,static/small movement: movement_norm=0.001
+135,unknown,1189.6,1189.7,0.1,too few detections: 3 < 5
+136,unknown,1193.05,1202.85,0.19,static/small movement: movement_norm=0.002
+137,unknown,1204.75,1215.0,0.194,static/small movement: movement_norm=0.004
+138,unknown,1223.85,1224.3,0.1,track too short: 0.45s < 1.00s
+139,unknown,1228.4,1228.9,0.1,track too short: 0.50s < 1.00s
+141,unknown,1233.05,1233.1,0.1,too few detections: 2 < 5
+142,unknown,1242.35,1244.7,0.161,static/small movement: movement_norm=0.001
+143,unknown,1246.95,1250.15,0.173,static/small movement: movement_norm=0.005
+145,unknown,1291.05,1291.75,0.1,track too short: 0.70s < 1.00s
+147,entry,1291.25,1297.35,0.939,dx=0.172; dy=0.474; projection=0.457; alignment=0.906; hits=101; mean_det_conf=0.815
+148,unknown,1292.1,1292.45,0.1,track too short: 0.35s < 1.00s
+149,unknown,1293.0,1293.0,0.1,too few detections: 1 < 5
+150,exit,1315.05,1320.95,0.959,dx=-0.268; dy=-0.461; projection=-0.516; alignment=0.967; hits=102; mean_det_conf=0.837
+151,unknown,1321.05,1321.9,0.1,track too short: 0.85s < 1.00s
+152,unknown,1321.55,1322.5,0.1,track too short: 0.95s < 1.00s
+155,unknown,1342.45,1342.45,0.1,too few detections: 1 < 5
+156,unknown,1342.55,1343.0,0.1,track too short: 0.45s < 1.00s
+159,unknown,1344.25,1369.35,0.175,static/small movement: movement_norm=0.001
+160,unknown,1374.9,1387.45,0.167,static/small movement: movement_norm=0.022
+161,exit,1387.2,1414.95,0.548,dx=-0.001; dy=-0.086; projection=-0.062; alignment=0.718; hits=480; mean_det_conf=0.408
+162,unknown,1388.8,1388.8,0.1,too few detections: 1 < 5
+168,unknown,1416.35,1429.15,0.153,static/small movement: movement_norm=0.002
+169,unknown,1430.95,1434.8,0.13,static/small movement: movement_norm=0.007
+170,unknown,1436.9,1448.65,0.169,static/small movement: movement_norm=0.001
+171,unknown,1450.85,1451.15,0.1,track too short: 0.30s < 1.00s
+172,unknown,1451.85,1453.35,0.168,static/small movement: movement_norm=0.010
+174,unknown,1455.15,1457.8,0.164,static/small movement: movement_norm=0.014
+175,unknown,1456.65,1458.4,0.1,too few detections: 4 < 5
+176,entry,1458.8,1464.25,0.964,dx=0.280; dy=0.319; projection=0.423; alignment=0.998; hits=109; mean_det_conf=0.824
+180,unknown,1461.5,1462.6,0.17,static/small movement: movement_norm=0.012
+181,unknown,1461.6,1463.1,0.187,static/small movement: movement_norm=0.018
+183,entry,1464.1,1468.75,0.943,dx=0.224; dy=0.501; projection=0.512; alignment=0.934; hits=94; mean_det_conf=0.831
+186,exit,1597.7,1601.55,0.926,dx=-0.411; dy=-0.316; projection=-0.514; alignment=0.992; hits=69; mean_det_conf=0.758
+187,entry,1598.1,1606.25,0.968,dx=0.492; dy=0.453; projection=0.668; alignment=0.999; hits=164; mean_det_conf=0.839
+188,entry,1601.35,1612.2,0.954,dx=0.516; dy=0.505; projection=0.722; alignment=1.000; hits=201; mean_det_conf=0.770
+190,exit,1601.8,1603.5,0.528,dx=0.022; dy=-0.116; projection=-0.067; alignment=0.563; hits=35; mean_det_conf=0.798
+193,exit,1754.1,1799.95,0.979,dx=-0.546; dy=-0.414; projection=-0.679; alignment=0.991; hits=913; mean_det_conf=0.907
