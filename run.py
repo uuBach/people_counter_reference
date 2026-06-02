@@ -190,12 +190,7 @@ def mark_duplicate_fragments(
     fps: float,
     args: argparse.Namespace,
 ) -> List[Dict[str, object]]:
-    """Conservative post-processing for obvious ID-switch fragments.
-
-    If two accepted tracks have the same direction, the second starts very soon
-    after the first ends, and its start point is close to the first end point,
-    mark the second as unknown instead of counting it again.
-    """
+    
     diag_px = math.hypot(width, height)
     max_gap_frames = int(args.max_duplicate_gap_seconds * fps)
     max_distance_px = args.max_duplicate_distance_norm * diag_px
