@@ -287,24 +287,3 @@ Annotated frames показывают найденных людей и их trac
 * Использовать более сильную YOLO-модель или detector, дообученный на construction-site данных.
 * Сделать небольшой validation set с вручную просмотренными событиями.
 
-## Примечание про optional PPE bonus
-
-В этом reference baseline не используется VLM API. Это сделано намеренно, потому что основная часть задания должна запускаться без API keys и без платных сервисов.
-
-Чистое расширение для PPE могло бы работать так:
-
-1. Сохранять один clear crop для каждого accepted track.
-2. Отправлять только representative crops в VLM.
-3. Сохранять результат в:
-
-```text
-results/ppe_events.csv
-```
-
-Рекомендуемые колонки:
-
-```text
-track_id,direction,timestamp_s,helmet,safety_vest,vlm_confidence,vlm_notes
-```
-
-API keys должны читаться из environment variables и никогда не должны попадать в GitHub.
